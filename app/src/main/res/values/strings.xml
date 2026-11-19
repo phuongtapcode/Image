@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FrameLoop</string>
+
+    <!-- Empty state -->
+    <string name="empty_title">Chưa có nội dung nào</string>
+    <string name="empty_subtitle">Thêm ảnh, ảnh động GIF hoặc video chất lượng gốc theo thứ tự bạn muốn. Mở ứng dụng là xem ngay.</string>
+    <string name="empty_cta_configure">Cấu hình Slot #01</string>
+
+    <!-- Viewer overlay & status -->
+    <string name="cd_open_settings">Mở cài đặt danh sách slot</string>
+    <string name="cd_toggle_mute">Bật hoặc tắt âm thanh video</string>
+    <string name="viewer_muted_label">Tắt tiếng</string>
+    <string name="viewer_unmuted_label">Có tiếng</string>
+    <string name="viewer_zoom_hint">2 ngón để phóng to</string>
+    <string name="media_missing_title">Không thể đọc tệp gốc</string>
+    <string name="media_missing_subtitle">Tệp có thể đã bị xóa hoặc di chuyển trên thiết bị.</string>
+    <string name="media_missing_action">Chọn lại tệp</string>
+    <string name="media_video_error">Không thể phát video này</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Cấu hình Slot</string>
+    <string name="settings_subtitle_count">Đang lưu %1$d mục • Chất lượng gốc cục bộ</string>
+    <string name="settings_subtitle_empty">Chưa có slot nào • Liên kết trực tiếp tệp gốc</string>
+    <string name="cd_back_to_viewer">Quay lại trình xem</string>
+    <string name="action_add_multiple">Thêm nhiều</string>
+    <string name="action_done_view">Xem ngay</string>
+    <string name="next_slot_badge">SLOT #%1$s</string>
+    <string name="next_slot_title">Mở khóa slot tiếp theo</string>
+    <string name="next_slot_subtitle">Chạm để chọn ảnh, GIF hoặc video chất lượng gốc</string>
+    <string name="next_slot_first_title">Chọn tệp cho Slot #01</string>
+    <string name="next_slot_first_subtitle">Hiển thị ngay khi mở ứng dụng • Không giới hạn số lượng</string>
+    <string name="slot_type_image">IMG</string>
+    <string name="slot_type_gif">GIF</string>
+    <string name="slot_type_video">VID</string>
+    <string name="slot_default_name">Tệp cục bộ</string>
+    <string name="cd_move_slot_up">Di chuyển lên</string>
+    <string name="cd_move_slot_down">Di chuyển xuống</string>
+    <string name="cd_replace_slot">Thay thế tệp trong slot</string>
+    <string name="cd_delete_slot">Xóa slot này</string>
+    <string name="cd_slot_thumbnail">Ảnh xem trước của slot</string>
+    <string name="settings_footer_note">Ảnh, GIF và video được liên kết trực tiếp từ bộ nhớ máy ở chất lượng gốc — không nhân đôi dung lượng lưu trữ.</string>
+    <string name="snackbar_slot_added">Đã thêm vào Slot #%1$s — Mở khóa Slot #%2$s</string>
+    <string name="snackbar_slots_added_multi">Đã thêm %1$d tệp mới vào danh sách</string>
+    <string name="snackbar_slot_replaced">Đã cập nhật tệp cho Slot #%1$s</string>
+    <string name="snackbar_slot_deleted">Đã xóa khỏi danh sách</string>
+    <string name="snackbar_uri_permission_warning">Không thể giữ quyền đọc vĩnh viễn cho tệp vừa chọn</string>
+</resources>

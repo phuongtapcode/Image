@@ -1,0 +1,6 @@
+{
+  "name": "FrameLoop",
+  "description": "Trình xem ảnh, GIF và video cục bộ chất lượng gốc theo thứ tự slot nối tiếp, vuốt vòng lặp và thu phóng đàn hồi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
